@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.unir.order_products.OrderProductsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.99 s -- in com.unir.order_products.OrderProductsApplicationTests
