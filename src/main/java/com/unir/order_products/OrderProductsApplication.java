@@ -7,9 +7,5 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 @SpringBootApplication
 public class OrderProductsApplication {
-
-	public static void main(String[] args) {
-		SpringApplication.run(OrderProductsApplication.class, args);
-	}
-
+	public static void main(String[] args) {SpringApplication.run(OrderProductsApplication.class, args);}
 }
